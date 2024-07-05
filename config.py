@@ -39,7 +39,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 
 
-START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.")
+START_MSG = os.environ.get("START_MESSAGE", "<b>👋 Hello {mention} ✨ \n\nI can store private files in Specified Channel and other users can access it from special link. \n\n🌿 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/TMR_DEVELOPER'>Vishal Kumar</a></b>")
 
 try:
     ADMINS=[7085541484]
