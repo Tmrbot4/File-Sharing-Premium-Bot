@@ -25,7 +25,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://tmr624062:D2Vl284KlBlEIDkU@clus
 DB_NAME = os.environ.get("DB_NAME", "Jishu_filterbot")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002240220476"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002175374382"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001868502293"))
 
 
